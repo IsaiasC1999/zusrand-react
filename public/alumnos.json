@@ -1,0 +1,60 @@
+[
+
+  {
+    "id" : 2,
+    "nombre": "María Rodríguez",
+    "edad": 21,
+    "materias": [
+      {
+        "nombre": "Literatura",
+        "promedio_anual": 8.0
+      },
+      {
+        "nombre": "Biología",
+        "promedio_anual": 8.7
+      },
+      {
+        "nombre": "Química",
+        "promedio_anual": 9.5
+      }
+    ]
+  },
+  {
+    "id" : 3,
+    "nombre": "Carlos González",
+    "edad": 19,
+    "materias": [
+      {
+        "nombre": "Física",
+        "promedio_anual": 9.0
+      },
+      {
+        "nombre": "Inglés",
+        "promedio_anual": 7.8
+      },
+      {
+        "nombre": "Economía",
+        "promedio_anual": 8.9
+      }
+    ]
+  },
+  { 
+    "id" : 4, 
+    "nombre": "Nico Corroto",
+    "edad": 21,
+    "materias": [
+      {
+        "nombre": "Matemáticas",
+        "promedio_anual": 0.5
+      },
+      {
+        "nombre": "Historia",
+        "promedio_anual": 7.0
+      },
+      {
+        "nombre": "Ciencias",
+        "promedio_anual": 9.2
+      }
+    ]
+  }
+]
