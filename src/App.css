@@ -4,3 +4,13 @@
   padding: 2rem;
   text-align: center;
 }
+
+
+.div-ocultar{
+  display: none;
+}
+
+
+.div-mostrar{
+  display: block;
+}
